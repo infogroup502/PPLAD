@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.1
+matplotlib==3.9.2
+statsmodels==0.14.2
+tsfresh==0.20.3
+hurst==0.0.5
+arch==7.0.0
