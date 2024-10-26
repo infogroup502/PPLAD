@@ -2,7 +2,7 @@
 
 
 ## Requirements
-The recommended requirements for LTFAD are specified as follows:
+The recommended requirements for PPLAD are specified as follows:
 - torch==1.13.0
 - numpy==1.26.4
 - pandas==2.2.2
@@ -35,7 +35,7 @@ There are six files/folders in the source
 - ## Usage
 1. Install Python 3.9, PyTorch >= 1.4.0
 2. Download the datasets
-3. To train and evaluate LTFAD on a dataset, run the following command:
+3. To train and evaluate PPLAD on a dataset, run the following command:
 ```bash
 python main.py 
 ```
