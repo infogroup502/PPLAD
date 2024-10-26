@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## Data
 The datasets can be obtained and put into datasets/ folder in the following way:
 - Our model supports anomaly detection for multivariate time series datasets.
-- We provide the Dodgers dataset. If you want to use your own dataset, please place your datasetfiles in the `/dataset/<dataset>/` folder, following the format `<dataset>_train.npy`, `<dataset>_test.npy`, `<dataset>_test_label.npy`.
+- We provide the SKAB dataset. If you want to use your own dataset, please place your datasetfiles in the `/dataset/<dataset>/` folder, following the format `<dataset>_train.npy`, `<dataset>_test.npy`, `<dataset>_test_label.npy`.
 
 ## Code Description
 There are six files/folders in the source
