@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Data
 The datasets can be obtained and put into datasets/ folder in the following way:
-- Our model supports anomaly detection for univariate and multivariate time series datasets.
+- Our model supports anomaly detection for multivariate time series datasets.
 - We provide the Dodgers dataset. If you want to use your own dataset, please place your datasetfiles in the `/dataset/<dataset>/` folder, following the format `<dataset>_train.npy`, `<dataset>_test.npy`, `<dataset>_test_label.npy`.
 
 ## Code Description
@@ -28,7 +28,7 @@ There are six files/folders in the source
 - data_factory: The preprocessing folder/file. All datasets preprocessing codes are here.
 - main.py: The main python file. You can adjustment all parameters in there.
 - metrics: There is the evaluation metrics code folder.
-- model: LTFAD model folder
+- model: PPLAD model folder
 - solver.py: Another python file. The training, validation, and testing processing are all in there
 - requirements.txt: Python packages needed to run this repo
 
