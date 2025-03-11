@@ -1,5 +1,5 @@
 # Privacy-Preserving Lightweight Time-Series Anomaly Detection for Resource-Limited Industrial IoT Edge Devices (TII 2025)
-This repository provides a PyTorch implementation of PPLAD ([paper](https://ieeexplore.ieee.org/document/10908726).
+This repository provides a PyTorch implementation of PPLAD ([paper](https://ieeexplore.ieee.org/document/10908726)).
 
 ## Framework
 <img src="https://github.com/infogroup502/PPLAD/blob/main/img/workflow.png" width="850px">
