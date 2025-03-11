@@ -1,4 +1,6 @@
-# PPLAD
+# Privacy-Preserving Lightweight Time-Series Anomaly Detection for Resource-Limited Industrial IoT Edge Devices (TII 2025)
+
+## Framework
 
 
 ## Requirements
