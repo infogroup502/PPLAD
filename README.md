@@ -1,7 +1,10 @@
 # Privacy-Preserving Lightweight Time-Series Anomaly Detection for Resource-Limited Industrial IoT Edge Devices (TII 2025)
 
 ## Framework
+<img src="https://github.com/infogroup502/PPLAD/blob/main/img/workflow.png" width="850px">
 
+## Main Result
+<img src="https://github.com/infogroup502/PPLAD/blob/main/img/result.png" width="850px">
 
 ## Requirements
 The recommended requirements for PPLAD are specified as follows:
@@ -40,4 +43,18 @@ There are six files/folders in the source
 3. To train and evaluate PPLAD on a dataset, run the following command:
 ```bash
 python main.py 
+```
+## BibTex Citation
+```bash
+@ARTICLE{Chentii2025,
+  author={Chen, Lei and Xu, Yepeng and Li, Ming and Hu, Bowen and Guo, Haomiao and Liu, Zhaohua},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={Privacy-Preserving Lightweight Time-Series Anomaly Detection for Resource-Limited Industrial IoT Edge Devices}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-12},
+  doi={10.1109/TII.2025.3538127}
+}
+
 ```
