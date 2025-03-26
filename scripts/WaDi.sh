@@ -1,0 +1,1 @@
+python main.py --anormly_ratio 0.5 --num_epochs 3   --batch_size 128   --d_model 128  --dataset WaDi  --data_path WaDi --input_c 127    --output_c 127  --global_size 9   --local_size 3  --r 0.9   --win_size 90
