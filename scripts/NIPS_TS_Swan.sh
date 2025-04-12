@@ -1,1 +1,0 @@
-python main.py --anormly_ratio 0.2 --num_epochs 3   --batch_size 256   --d_model 128  --dataset NIPS_TS_Swan  --data_path NIPS_TS_Swan --input_c 38    --output_c 38  --global_size 6   --local_size 3  --r 0.1   --win_size 105
