@@ -47,15 +47,14 @@ python main.py
 ```
 ## BibTex Citation
 ```bash
-@ARTICLE{Chentii2025,
+@ARTICLE{10908726,
   author={Chen, Lei and Xu, Yepeng and Li, Ming and Hu, Bowen and Guo, Haomiao and Liu, Zhaohua},
   journal={IEEE Transactions on Industrial Informatics}, 
   title={Privacy-Preserving Lightweight Time-Series Anomaly Detection for Resource-Limited Industrial IoT Edge Devices}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-12},
-  doi={10.1109/TII.2025.3538127}
-}
-
+  volume={21},
+  number={6},
+  pages={4435-4446},
+  keywords={Anomaly detection;Image edge detection;Data models;Computational modeling;Gaussian distribution;Data privacy;Adversarial machine learning;Industrial Internet of Things;Cloud computing;Informatics;Data privacy-preserving;edge devices;industrial Internet of Things;lightweight anomaly detection;resource-limited;similarity discrepancy},
+  doi={10.1109/TII.2025.3538127}}
 ```
