@@ -24,7 +24,6 @@ def calculate_area(mu, sigma, x):
     return cdf1 - cdf2
 
 def calculate_area_1(mu, sigma, x):
-    # 计算正态分布的累积分布函数 CDF
     dist = torch.distributions.Normal(mu, sigma)
     cdf = dist.cdf(x[:,:,-1])
 
